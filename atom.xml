@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://1053111491.github.io</id>
     <title>turkey~life</title>
-    <updated>2019-10-13T14:12:04.291Z</updated>
+    <updated>2019-10-13T14:21:20.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://1053111491.github.io"/>
     <link rel="self" href="https://1053111491.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://1053111491.github.io/images/avatar.png</logo>
     <icon>https://1053111491.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, turkey~life</rights>
+    <entry>
+        <title type="html"><![CDATA[工作总结——可用性测试方法论]]></title>
+        <id>https://1053111491.github.io/post/gong-zuo-zong-jie-ke-yong-xing-ce-shi-fang-fa-lun</id>
+        <link href="https://1053111491.github.io/post/gong-zuo-zong-jie-ke-yong-xing-ce-shi-fang-fa-lun">
+        </link>
+        <updated>2019-10-13T14:13:01.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="基本概念">基本概念</h1>
+<p>1、 什么是可用性<br>
+2、什么是可用性测试<br>
+3、 什么时候做可用性测试</p>
+<pre><code>
+</code></pre>
+<h1 id="可用性测试方法">可用性测试方法</h1>
+<p>1、用户体验测试<br>
+2、焦点小组<br>
+3、认知走查</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[工作总结——用户画像论]]></title>
         <id>https://1053111491.github.io/post/gong-zuo-zong-jie-yong-hu-hua-xiang-lun</id>
