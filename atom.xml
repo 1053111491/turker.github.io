@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>/Users/mac/Desktop/output</id>
+    <id>https://chengjianting.hithub.io</id>
     <title>Gridea</title>
-    <updated>2019-10-13T07:57:44.294Z</updated>
+    <updated>2019-10-13T08:02:57.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="/Users/mac/Desktop/output"/>
-    <link rel="self" href="/Users/mac/Desktop/output/atom.xml"/>
+    <link rel="alternate" href="https://chengjianting.hithub.io"/>
+    <link rel="self" href="https://chengjianting.hithub.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>/Users/mac/Desktop/output/images/avatar.png</logo>
-    <icon>/Users/mac/Desktop/output/favicon.ico</icon>
+    <logo>https://chengjianting.hithub.io/images/avatar.png</logo>
+    <icon>https://chengjianting.hithub.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>/Users/mac/Desktop/output/post/hello-gridea/index.html</id>
-        <link href="/Users/mac/Desktop/output/post/hello-gridea/index.html">
+        <id>https://chengjianting.hithub.io/post/hello-gridea</id>
+        <link href="https://chengjianting.hithub.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
