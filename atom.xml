@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://1053111491.github.io</id>
+    <id>/Users/mac/Desktop/output</id>
     <title>turkey~life</title>
-    <updated>2019-10-19T13:37:06.305Z</updated>
+    <updated>2019-10-19T14:15:36.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://1053111491.github.io"/>
-    <link rel="self" href="https://1053111491.github.io/atom.xml"/>
+    <link rel="alternate" href="/Users/mac/Desktop/output"/>
+    <link rel="self" href="/Users/mac/Desktop/output/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://1053111491.github.io/images/avatar.png</logo>
-    <icon>https://1053111491.github.io/favicon.ico</icon>
+    <logo>/Users/mac/Desktop/output/images/avatar.png</logo>
+    <icon>/Users/mac/Desktop/output/favicon.ico</icon>
     <rights>All rights reserved 2019, turkey~life</rights>
     <entry>
         <title type="html"><![CDATA[豪恩网关设备体验与优化]]></title>
-        <id>https://1053111491.github.io/post/hao-en-wang-guan-she-bei-ti-yan-yu-you-hua</id>
-        <link href="https://1053111491.github.io/post/hao-en-wang-guan-she-bei-ti-yan-yu-you-hua">
+        <id>/Users/mac/Desktop/output/post/hao-en-wang-guan-she-bei-ti-yan-yu-you-hua/index.html</id>
+        <link href="/Users/mac/Desktop/output/post/hao-en-wang-guan-she-bei-ti-yan-yu-you-hua/index.html">
         </link>
         <updated>2019-10-19T08:17:30.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://1053111491.github.io/post-images/1571484237536.png" alt=""></p>
+        <content type="html"><![CDATA[<p><img src="/Users/mac/Desktop/output/post-images/1571494530484.jpg" alt=""></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[工作总结——用户画像论]]></title>
-        <id>https://1053111491.github.io/post/gong-zuo-zong-jie-yong-hu-hua-xiang-lun</id>
-        <link href="https://1053111491.github.io/post/gong-zuo-zong-jie-yong-hu-hua-xiang-lun">
+        <id>/Users/mac/Desktop/output/post/gong-zuo-zong-jie-yong-hu-hua-xiang-lun/index.html</id>
+        <link href="/Users/mac/Desktop/output/post/gong-zuo-zong-jie-yong-hu-hua-xiang-lun/index.html">
         </link>
         <updated>2019-10-13T13:06:34.000Z</updated>
         <content type="html"><![CDATA[<p>以下是个人日常工作总结<br>
-<img src="https://1053111491.github.io/post-images/1571492221897.png" alt=""></p>
+<img src="/Users/mac/Desktop/output/post-images/1571492221897.png" alt=""></p>
 <h1 id="目录">目录</h1>
 <p>用户画像是什么？<br>
 用户画像是用来干什么的？<br>
 用户画像包含哪些？<br>
 怎么得到用户画像，用户画像的方法有哪些？<br>
-<img src="https://1053111491.github.io/post-images/1571061444972.jpg" alt=""></p>
+<img src="/Users/mac/Desktop/output/post-images/1571061444972.jpg" alt=""></p>
 <h1 id="用户画像是什么">用户画像是什么？</h1>
 <p>用户画像是对产品全体目标行为、态度、需求等特征的勾勒，明确目标人群的使用行为和心理特征，从而辅助产品决策与设计<br>
-<img src="https://1053111491.github.io/post-images/1571061444972.jpg" alt=""></p>
+<img src="/Users/mac/Desktop/output/post-images/1571061444972.jpg" alt=""></p>
 <h1 id="用户画像是用来干什么的">用户画像是用来干什么的</h1>
 <p>用户画像能帮助产品团队清楚用户目标、需求和行为习惯，用户画像不是对某个用户的精准描述，它更重要的作用是作为一种决策、设计沟通可视化交流工具</p>
-<p><img src="https://1053111491.github.io/post-images/1571061444972.jpg" alt=""></p>
+<p><img src="/Users/mac/Desktop/output/post-images/1571061444972.jpg" alt=""></p>
 <h1 id="用户画像的功能">用户画像的功能</h1>
 <p><strong>1、带来专注</strong><br>
 产品不可能满足所有人的需求，用户华西那个能让我们优先的、针对的满足几类特定人群的需求建议不超过3类用户</p>
@@ -46,7 +46,7 @@
 让产品和设计人员在生产活动中更理解用户的习惯和需求，达成以用户为中心</p>
 <p><strong>3、促进决策</strong><br>
 在决定是否要进行增加或者修改某一项功能时候，可以根据用户画像得出的用户特征来判断目标人权是否需要该功能，从而减少争论和拍脑袋</p>
-<p><img src="https://1053111491.github.io/post-images/1571061444972.jpg" alt=""></p>
+<p><img src="/Users/mac/Desktop/output/post-images/1571061444972.jpg" alt=""></p>
 <h1 id="用户画像包含哪些">用户画像包含哪些</h1>
 <p><strong>用户画像（PERSONA）<br>
 P代表基本性</strong><br>
@@ -63,7 +63,7 @@ E代表移情性<br>
 用户角色是否足够少，以便设计团队记住每个用户角色的姓名，以及其中的一个主要用户角色，一般满足2-3个角色需求<br>
 <strong>A代表应用性</strong><br>
 设计团队是否使用用户角色，是否作为一个使用工具进行设计决策</p>
-<p><img src="https://1053111491.github.io/post-images/1571061444972.jpg" alt=""></p>
+<p><img src="/Users/mac/Desktop/output/post-images/1571061444972.jpg" alt=""></p>
 <h1 id="适用的范围">适用的范围</h1>
 <p><strong>产品初期</strong><br>
 1、确定产品定位<br>
@@ -79,7 +79,7 @@ E代表移情性<br>
 <p><strong>产品运营</strong><br>
 1、锁定推广目标<br>
 2、完善运营方案</p>
-<p><img src="https://1053111491.github.io/post-images/1571061444972.jpg" alt=""></p>
+<p><img src="/Users/mac/Desktop/output/post-images/1571061444972.jpg" alt=""></p>
 <h1 id="创建流程">创建流程</h1>
 <p><strong>前期研究</strong><br>
 1、对产品历史或者现有的市场研究报告进行研究，提取有价值的信息；<br>
@@ -92,49 +92,49 @@ E代表移情性<br>
 产品使用经验：使用习惯、使用频率、实用功能；<br>
 人口属性：性别、年龄、职业、收入、生活习惯等；<br>
 心里追求：本能、规则、理想等</p>
-<p><img src="https://1053111491.github.io/post-images/1571061444972.jpg" alt=""><br>
+<p><img src="/Users/mac/Desktop/output/post-images/1571061444972.jpg" alt=""><br>
 <strong>撰写角色</strong></p>
-<p><img src="https://1053111491.github.io/post-images/1571061444972.jpg" alt=""><br>
+<p><img src="/Users/mac/Desktop/output/post-images/1571061444972.jpg" alt=""><br>
 <strong>开始归纳总结</strong><br>
 一般让用户画像容易记忆，可以使用具体的名字、标志性语言，几条简单的关键特征进行描述；一般一款产品设计3-6个角色去代表所有全体</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[工作总结——可用性测试方法论]]></title>
-        <id>https://1053111491.github.io/post/gong-zuo-zong-jie-ke-yong-xing-ce-shi-fang-fa-lun</id>
-        <link href="https://1053111491.github.io/post/gong-zuo-zong-jie-ke-yong-xing-ce-shi-fang-fa-lun">
+        <id>/Users/mac/Desktop/output/post/gong-zuo-zong-jie-ke-yong-xing-ce-shi-fang-fa-lun/index.html</id>
+        <link href="/Users/mac/Desktop/output/post/gong-zuo-zong-jie-ke-yong-xing-ce-shi-fang-fa-lun/index.html">
         </link>
         <updated>2019-10-08T14:13:01.000Z</updated>
         <content type="html"><![CDATA[<h1 id="基本概念">基本概念</h1>
 <p>1、 什么是可用性<br>
 2、什么是可用性测试<br>
 3、 什么时候做可用性测试<br>
-<img src="https://1053111491.github.io/post-images/1571061444972.jpg" alt=""></p>
+<img src="/Users/mac/Desktop/output/post-images/1571061444972.jpg" alt=""></p>
 <h1 id="可用性测试方法">可用性测试方法</h1>
 <p>1、用户体验测试<br>
 2、焦点小组<br>
 3、认知走查<br>
 4、启发式评估法<br>
 5、眼动测试<br>
-<img src="https://1053111491.github.io/post-images/1571061444972.jpg" alt=""></p>
+<img src="/Users/mac/Desktop/output/post-images/1571061444972.jpg" alt=""></p>
 <h1 id="可用性测试流程">可用性测试流程</h1>
 <p>1、研究前调<br>
 2、测试准备<br>
 3、招募用户<br>
 4、执行测试<br>
 5、撰写报告<br>
-<img src="https://1053111491.github.io/post-images/1571061444972.jpg" alt=""></p>
+<img src="/Users/mac/Desktop/output/post-images/1571061444972.jpg" alt=""></p>
 <h1 id="学习的简易性">学习的简易性</h1>
 <p>使用的效率——可记忆性——出错频率和严重性——主观满意度<br>
-<img src="https://1053111491.github.io/post-images/1571061444972.jpg" alt=""></p>
+<img src="/Users/mac/Desktop/output/post-images/1571061444972.jpg" alt=""></p>
 <h1 id="什么是可用性">什么是可用性？</h1>
 <p>可用性是对用户与一个产品或系统交互时的用户体验质量的度量<br>
 用户在特定的使用环境中高效率的、具有一定效果地和满意地使用一个产品达到一个特定的目标所包含的内容<br>
-<img src="https://1053111491.github.io/post-images/1571061444972.jpg" alt=""></p>
+<img src="/Users/mac/Desktop/output/post-images/1571061444972.jpg" alt=""></p>
 <h1 id="什么是可用性测试">什么是可用性测试?</h1>
 <p>可用性测试是基于一定的可用性准则， 评估产品的一种技术，用于探讨一个 客观参与者与一个设计在交互测试过 程中的相互影响，是一个结构化的过程<br>
 通过观察有代表性的用户，完成产品的典型任务，通过结构化的评价指标，界定出可用性问题<br>
-<img src="https://1053111491.github.io/post-images/1571061444972.jpg" alt=""></p>
+<img src="/Users/mac/Desktop/output/post-images/1571061444972.jpg" alt=""></p>
 <h1 id="什么时候做可用性测试">什么时候做可用性测试?</h1>
 <p><strong>开始新设计阶段</strong><br>
 1、之前对旧的设计进行测试；<br>
@@ -143,7 +143,7 @@ E代表移情性<br>
 <strong>原型阶段</strong><br>
 1、根据既定的可用性准则检查设计;<br>
 2、测试最终设计;<br>
-<img src="https://1053111491.github.io/post-images/1571061444972.jpg" alt=""></p>
+<img src="/Users/mac/Desktop/output/post-images/1571061444972.jpg" alt=""></p>
 <h1 id="可用性测试方法-2">可用性测试方法</h1>
 <p><strong>用户体验测试法</strong><br>
 让用户真正地使用产品或服务，由实验人员对实 验过程进行观察，纪录和测量。然后理解在该系统中用户的心理模型。用户测试可分为实验室测 试和现场测试。实验室测试是在可用性测试实验 室里进行的; 而现场测试是由可用性测试人员到 用户的实际使用现场进行观察和测试<br>
@@ -155,7 +155,7 @@ E代表移情性<br>
 启发式评估是安排一组评估人员检查界面，并判 断其是否与公认的可用性原色相符 可用性专家使用预定的一系列标准，来衡量一个 设计的可用性<br>
 <strong>眼动测试</strong><br>
 眼动包括注视与眼跳两种基本运动，在眼动结果图中会通过圆圈与线段来表示，从而得到眼动轨迹图<br>
-<img src="https://1053111491.github.io/post-images/1571061444972.jpg" alt=""></p>
+<img src="/Users/mac/Desktop/output/post-images/1571061444972.jpg" alt=""></p>
 <h1 id="用户体验测试执行流程">用户体验测试执行流程</h1>
 <p><strong>研究前调</strong><br>
 1、明确研究背景<br>
@@ -177,7 +177,7 @@ E代表移情性<br>
 <strong>报告撰写</strong><br>
 1、数据分析<br>
 2、报告撰写<br>
-<img src="https://1053111491.github.io/post-images/1571061444972.jpg" alt=""></p>
+<img src="/Users/mac/Desktop/output/post-images/1571061444972.jpg" alt=""></p>
 <h1 id="测试准备场景和任务设计">测试准备:场景和任务设计</h1>
 <p><strong>1、提出问题</strong><br>
 当前设计过程中有哪些问题需要去解决?<br>
@@ -189,7 +189,7 @@ E代表移情性<br>
 选定的方法收集数据<br>
 <strong>5. 整合</strong><br>
 分析数据，证实和证伪假设猜想<br>
-<img src="https://1053111491.github.io/post-images/1571061444972.jpg" alt=""></p>
+<img src="/Users/mac/Desktop/output/post-images/1571061444972.jpg" alt=""></p>
 <h1 id="招募用户从哪找几个什么用户">招募用户:从哪找几个什么用户</h1>
 <p><strong>1、找什么用户</strong><br>
 内部用户:<br>
@@ -203,7 +203,7 @@ E代表移情性<br>
 通过用户研究员向外部咨询公司发起用户招募<br>
 <strong>3、用户找几个</strong><br>
 建议：5-15<br>
-<img src="https://1053111491.github.io/post-images/1571061444972.jpg" alt=""></p>
+<img src="/Users/mac/Desktop/output/post-images/1571061444972.jpg" alt=""></p>
 <h1 id="执行测试执行准备材料-流程说明">执行测试：执行准备材料、流程说明</h1>
 <p><strong>测试材料准备</strong><br>
 1、保密协议表(必须)<br>
