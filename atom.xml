@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://1053111491.github.io</id>
     <title>turkey~life</title>
-    <updated>2019-10-14T13:59:51.903Z</updated>
+    <updated>2019-10-19T09:38:13.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://1053111491.github.io"/>
     <link rel="self" href="https://1053111491.github.io/atom.xml"/>
@@ -11,11 +11,99 @@
     <icon>https://1053111491.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, turkey~life</rights>
     <entry>
+        <title type="html"><![CDATA[豪恩网关设备体验与优化]]></title>
+        <id>https://1053111491.github.io/post/hao-en-wang-guan-she-bei-ti-yan-yu-you-hua</id>
+        <link href="https://1053111491.github.io/post/hao-en-wang-guan-she-bei-ti-yan-yu-you-hua">
+        </link>
+        <updated>2019-10-19T08:17:30.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://1053111491.github.io/post-images/1571473087430.jpg" alt=""></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工作总结——用户画像论]]></title>
+        <id>https://1053111491.github.io/post/gong-zuo-zong-jie-yong-hu-hua-xiang-lun</id>
+        <link href="https://1053111491.github.io/post/gong-zuo-zong-jie-yong-hu-hua-xiang-lun">
+        </link>
+        <updated>2019-10-13T13:06:34.000Z</updated>
+        <content type="html"><![CDATA[<p>以下是个人日常工作总结</p>
+<h1 id="目录">目录</h1>
+<p>用户画像是什么？<br>
+用户画像是用来干什么的？<br>
+用户画像包含哪些？<br>
+怎么得到用户画像，用户画像的方法有哪些？<br>
+<img src="https://1053111491.github.io/post-images/1571061444972.jpg" alt=""></p>
+<h1 id="用户画像是什么">用户画像是什么？</h1>
+<p>用户画像是对产品全体目标行为、态度、需求等特征的勾勒，明确目标人群的使用行为和心理特征，从而辅助产品决策与设计<br>
+<img src="https://1053111491.github.io/post-images/1571061444972.jpg" alt=""></p>
+<h1 id="用户画像是用来干什么的">用户画像是用来干什么的</h1>
+<p>用户画像能帮助产品团队清楚用户目标、需求和行为习惯，用户画像不是对某个用户的精准描述，它更重要的作用是作为一种决策、设计沟通可视化交流工具</p>
+<p><img src="https://1053111491.github.io/post-images/1571061444972.jpg" alt=""></p>
+<h1 id="用户画像的功能">用户画像的功能</h1>
+<p><strong>1、带来专注</strong><br>
+产品不可能满足所有人的需求，用户华西那个能让我们优先的、针对的满足几类特定人群的需求建议不超过3类用户</p>
+<p><strong>2、引起共鸣</strong><br>
+让产品和设计人员在生产活动中更理解用户的习惯和需求，达成以用户为中心</p>
+<p><strong>3、促进决策</strong><br>
+在决定是否要进行增加或者修改某一项功能时候，可以根据用户画像得出的用户特征来判断目标人权是否需要该功能，从而减少争论和拍脑袋</p>
+<p><img src="https://1053111491.github.io/post-images/1571061444972.jpg" alt=""></p>
+<h1 id="用户画像包含哪些">用户画像包含哪些</h1>
+<p><strong>用户画像（PERSONA）<br>
+P代表基本性</strong><br>
+该用户角色是否基于针对真实用户的情景访谈<br>
+E代表移情性<br>
+用户角色包含姓名、照片、和产品相关的描述、该用户角色是否能让观看的人引起同理心<br>
+<strong>R代表真实性</strong><br>
+看是来时候真实人物<br>
+<strong>S代表独特性</strong><br>
+每个用户时候独特，彼此之间很少相似<br>
+<strong>O代表目标性</strong><br>
+该用户角色是否包含与产品相关的高层次目标时候包含关键词来阐述该目标<br>
+<strong>N代表数量</strong><br>
+用户角色是否足够少，以便设计团队记住每个用户角色的姓名，以及其中的一个主要用户角色，一般满足2-3个角色需求<br>
+<strong>A代表应用性</strong><br>
+设计团队是否使用用户角色，是否作为一个使用工具进行设计决策</p>
+<p><img src="https://1053111491.github.io/post-images/1571061444972.jpg" alt=""></p>
+<h1 id="适用的范围">适用的范围</h1>
+<p><strong>产品初期</strong><br>
+1、确定产品定位<br>
+2、目标人群</p>
+<p><strong>产品开发期间</strong><br>
+1、进行任务分析<br>
+2、琢磨交互流程<br>
+3、选择设计风格<br>
+4、招募测试人员</p>
+<p><strong>完善产品</strong><br>
+1、讨论产品需求增删<br>
+2、项目优先级</p>
+<p><strong>产品运营</strong><br>
+1、锁定推广目标<br>
+2、完善运营方案</p>
+<p><img src="https://1053111491.github.io/post-images/1571061444972.jpg" alt=""></p>
+<h1 id="创建流程">创建流程</h1>
+<p><strong>前期研究</strong><br>
+1、对产品历史或者现有的市场研究报告进行研究，提取有价值的信息；<br>
+2、小范围的问卷调查；<br>
+3、积累的大数据分析；<br>
+4、小型访谈；访谈利益相关人，了解他们对现有目标用户的理解和洞察；<br>
+5、真实用户访谈，了解真实用户的定性数据</p>
+<p><strong>创建角色</strong><br>
+按分析维度，进行分析；<br>
+产品使用经验：使用习惯、使用频率、实用功能；<br>
+人口属性：性别、年龄、职业、收入、生活习惯等；<br>
+心里追求：本能、规则、理想等</p>
+<p><img src="https://1053111491.github.io/post-images/1571061444972.jpg" alt=""><br>
+<strong>撰写角色</strong></p>
+<p><img src="https://1053111491.github.io/post-images/1571061444972.jpg" alt=""><br>
+<strong>开始归纳总结</strong><br>
+一般让用户画像容易记忆，可以使用具体的名字、标志性语言，几条简单的关键特征进行描述；一般一款产品设计3-6个角色去代表所有全体</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[工作总结——可用性测试方法论]]></title>
         <id>https://1053111491.github.io/post/gong-zuo-zong-jie-ke-yong-xing-ce-shi-fang-fa-lun</id>
         <link href="https://1053111491.github.io/post/gong-zuo-zong-jie-ke-yong-xing-ce-shi-fang-fa-lun">
         </link>
-        <updated>2019-10-13T14:13:01.000Z</updated>
+        <updated>2019-10-08T14:13:01.000Z</updated>
         <content type="html"><![CDATA[<h1 id="基本概念">基本概念</h1>
 <p>1、 什么是可用性<br>
 2、什么是可用性测试<br>
@@ -131,93 +219,6 @@
 <li>填写记录表</li>
 <li>寒暄结束</li>
 </ol>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工作总结——用户画像论]]></title>
-        <id>https://1053111491.github.io/post/gong-zuo-zong-jie-yong-hu-hua-xiang-lun</id>
-        <link href="https://1053111491.github.io/post/gong-zuo-zong-jie-yong-hu-hua-xiang-lun">
-        </link>
-        <updated>2019-10-13T13:06:34.000Z</updated>
-        <content type="html"><![CDATA[<p>以下是个人日常工作总结</p>
-<h1 id="目录">目录</h1>
-<p>用户画像是什么？<br>
-用户画像是用来干什么的？<br>
-用户画像包含哪些？<br>
-怎么得到用户画像，用户画像的方法有哪些？</p>
-<pre><code>
-</code></pre>
-<h1 id="用户画像是什么">用户画像是什么？</h1>
-<p>用户画像是对产品全体目标行为、态度、需求等特征的勾勒，明确目标人群的使用行为和心理特征，从而辅助产品决策与设计</p>
-<pre><code>
-</code></pre>
-<h1 id="用户画像是用来干什么的">用户画像是用来干什么的</h1>
-<p>用户画像能帮助产品团队清楚用户目标、需求和行为习惯，用户画像不是对某个用户的精准描述，它更重要的作用是作为一种决策、设计沟通可视化交流工具</p>
-<pre><code>
-</code></pre>
-<h1 id="用户画像的功能">用户画像的功能</h1>
-<p><strong>1、带来专注</strong><br>
-产品不可能满足所有人的需求，用户华西那个能让我们优先的、针对的满足几类特定人群的需求建议不超过3类用户</p>
-<p><strong>2、引起共鸣</strong><br>
-让产品和设计人员在生产活动中更理解用户的习惯和需求，达成以用户为中心</p>
-<p><strong>3、促进决策</strong><br>
-在决定是否要进行增加或者修改某一项功能时候，可以根据用户画像得出的用户特征来判断目标人权是否需要该功能，从而减少争论和拍脑袋</p>
-<pre><code>
-</code></pre>
-<h1 id="用户画像包含哪些">用户画像包含哪些</h1>
-<p><strong>用户画像（PERSONA）<br>
-P代表基本性</strong><br>
-该用户角色是否基于针对真实用户的情景访谈<br>
-E代表移情性<br>
-用户角色包含姓名、照片、和产品相关的描述、该用户角色是否能让观看的人引起同理心<br>
-<strong>R代表真实性</strong><br>
-看是来时候真实人物<br>
-<strong>S代表独特性</strong><br>
-每个用户时候独特，彼此之间很少相似<br>
-<strong>O代表目标性</strong><br>
-该用户角色是否包含与产品相关的高层次目标时候包含关键词来阐述该目标<br>
-<strong>N代表数量</strong><br>
-用户角色是否足够少，以便设计团队记住每个用户角色的姓名，以及其中的一个主要用户角色，一般满足2-3个角色需求<br>
-<strong>A代表应用性</strong><br>
-设计团队是否使用用户角色，是否作为一个使用工具进行设计决策</p>
-<pre><code>
-</code></pre>
-<h1 id="适用的范围">适用的范围</h1>
-<p><strong>产品初期</strong><br>
-1、确定产品定位<br>
-2、目标人群</p>
-<p><strong>产品开发期间</strong><br>
-1、进行任务分析<br>
-2、琢磨交互流程<br>
-3、选择设计风格<br>
-4、招募测试人员</p>
-<p><strong>完善产品</strong><br>
-1、讨论产品需求增删<br>
-2、项目优先级</p>
-<p><strong>产品运营</strong><br>
-1、锁定推广目标<br>
-2、完善运营方案</p>
-<pre><code>
-</code></pre>
-<h1 id="创建流程">创建流程</h1>
-<p><strong>前期研究</strong><br>
-1、对产品历史或者现有的市场研究报告进行研究，提取有价值的信息；<br>
-2、小范围的问卷调查；<br>
-3、积累的大数据分析；<br>
-4、小型访谈；访谈利益相关人，了解他们对现有目标用户的理解和洞察；<br>
-5、真实用户访谈，了解真实用户的定性数据</p>
-<p><strong>创建角色</strong><br>
-按分析维度，进行分析；<br>
-产品使用经验：使用习惯、使用频率、实用功能；<br>
-人口属性：性别、年龄、职业、收入、生活习惯等；<br>
-心里追求：本能、规则、理想等</p>
-<pre><code>
-</code></pre>
-<p><strong>撰写角色</strong></p>
-<pre><code>
-</code></pre>
-<p><strong>开始归纳总结</strong><br>
-一般让用户画像容易记忆，可以使用具体的名字、标志性语言，几条简单的关键特征进行描述；一般一款产品设计3-6个角色去代表所有全体</p>
 ]]></content>
     </entry>
 </feed>
